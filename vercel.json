@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://faqly-laravel-git-main-ruben-gabrielyans-projects.vercel.app/?vercelToolbarCode=WUeiA_FFDiLqM10",
+        "APP_URL": "https://faqly-laravel.vercel.app/",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
